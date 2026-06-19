@@ -6,10 +6,13 @@
          xml:lang="es">
    <front>
       <journal-meta>
+         <journal-id journal-id-type="publisher-id">1851-8044</journal-id>
          <journal-title-group>
             <journal-title>Revista Argentina</journal-title>
          </journal-title-group>
+         <issn pub-type="epub">1851-8044</issn>
          <publisher>
+            <publisher-name>Universidad del sur</publisher-name>
             <publisher-loc>Buenos Aires, Argentina</publisher-loc>
          </publisher>
       </journal-meta>
@@ -28,6 +31,7 @@
                   <surname>San Martín</surname>
                   <given-names>Alex</given-names>
                </name>
+               <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0002-5434-2105</contrib-id>
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
@@ -39,6 +43,46 @@
          <permissions>
             <copyright-year>2026</copyright-year>
          </permissions>
+         <abstract xml:lang="es">
+            <p>Este estudio analiza en profundidad el impacto de las condiciones de acceso digital sobre el rendimiento académico de los estudiantes de grado en dos de las universidades públicas más grandes e importantes de América Latina: la Universidad de Buenos Aires (UBA) en Argentina y la Universidad Nacional Autónoma de México (UNAM). La investigación adopta un enfoque multidimensional basado en el modelo teórico de Jan van Dijk, el cual supera la concepción binaria y tradicional de la "brecha digital" (conectados versus no conectados) para examinar cuatro dimensiones interconectadas: el acceso motivacional, el acceso material, las habilidades digitales y los resultados académicos.
+
+Metodológicamente, la investigación implementa un diseño de métodos mixtos que dota al análisis de una sólida base empírica. Por un lado, se aplicó un cuestionario estructurado a una muestra representativa de 1.247 estudiantes pertenecientes a las facultades de Ciencias Sociales y Políticas de ambas instituciones durante el segundo semestre de 2022. Por otro lado, se realizaron 40 entrevistas semiestructuradas en profundidad a estudiantes con perfiles contrastantes, permitiendo capturar las vivencias cualitativas detrás de las estadísticas.
+
+Los resultados cuantitativos demuestran que las condiciones de acceso material (calidad de conectividad, equipamiento y disponibilidad de espacios exclusivos de estudio) están profundamente estratificadas según el origen socioeconómico de los alumnos. Mientras que los estudiantes del quintil más alto (Q5) disfrutan de un acceso prácticamente universal y óptimo en ambas instituciones, aquellos situados en el primer quintil (Q1) enfrentan restricciones severas. Por ejemplo, el acceso a computadoras de uso exclusivo y a un espacio privado de estudio desciende drásticamente en los sectores más vulnerables.
+
+El hallazgo estadístico más relevante del estudio mediante análisis de regresión múltiple determina que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico (β = 0,34), superando al acceso material directo. No obstante, el modelo de mediación revela un mecanismo crítico: las habilidades digitales operan como una variable mediadora indispensable. Es decir, los estudiantes con mejores condiciones materiales de partida desarrollan competencias tecnológicas más sofisticadas y estratégicas, lo que consecuentemente se traduce en promedios académicos más altos y mayor éxito educativo.
+
+A nivel cualitativo, las entrevistas evidenciaron las estrategias de resistencia que los estudiantes de menores recursos despliegan ante la precariedad digital, tales como la "gestión del ancho de banda doméstico" o las severas limitaciones operativas que implica redactar trabajos académicos extensos exclusivamente a través de teléfonos móviles.
+
+Finalmente, la comparación transnacional evidencia que los patrones de desigualdad digital son notablemente homólogos en la UBA y la UNAM. Esto sugiere que la brecha digital en la educación superior responde a determinantes estructurales e históricos comunes en América Latina, alineándose con las tesis de la CEPAL sobre la reproducción digital de la matriz de desigualdad social. El estudio concluye que las políticas universitarias de virtualización o hibridación tecnológica son insuficientes si solo proveen infraestructura; estas deben acompañarse de programas integrales de desarrollo de competencias e intervenciones pedagógicas adaptadas a un alumnado socioeconómicamente heterogéneo para evitar que la digitalización actúe como un vector de exclusión.</p>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <p>This study provides an in-depth analysis of the impact of digital access conditions on the academic performance of undergraduate students at two of the largest and most prominent public universities in Latin America: the University of Buenos Aires (UBA) in Argentina and the National Autonomous University of Mexico (UNAM). The research adopts a multidimensional approach based on Jan van Dijk’s theoretical model, which moves beyond the traditional, binary conception of the "digital divide" (connected versus unconnected) to examine four interconnected dimensions: motivational access, material access, digital skills, and academic outcomes.
+
+Methodologically, the investigation implements a mixed-methods design that provides the analysis with a robust empirical foundation. On one hand, a structured questionnaire was administered to a representative sample of 1,247 students from the Social and Political Sciences faculties of both institutions during the second semester of 2022. On the other hand, 40 semi-structured, in-depth interviews were conducted with students showing contrasting profiles, allowing researchers to capture the qualitative experiences behind the statistical data.
+
+The quantitative findings demonstrate that material access conditions (quality of connectivity, devices, and the availability of dedicated study spaces) are deeply stratified according to the students' socioeconomic backgrounds. While students in the highest quintile (Q5) enjoy virtually universal and optimal access at both institutions, those in the first quintile (Q1) face severe restrictions. For instance, access to exclusive-use computers and a private study space drops drastically among the most vulnerable sectors.
+
+The most relevant statistical finding of the study, obtained through multiple regression analysis, determines that digital skills constitute the strongest predictor of academic performance (β = 0.34), surpassing direct material access. However, the mediation model reveals a critical mechanism: digital skills operate as an indispensable mediating variable. That is, students with better initial material conditions develop more sophisticated and strategic technological competencies, which consequently translates into higher academic averages and greater educational success.
+
+At the qualitative level, the interviews highlighted the resistance strategies that lower-income students deploy in response to digital precarity, such as "domestic bandwidth management" or the severe operational limitations involved in writing long academic papers exclusively on mobile phones.
+
+Finally, the cross-national comparison shows that the patterns of digital inequality are remarkably homologous at both UBA and UNAM. This suggests that the digital divide in higher education stems from common structural and historical determinants across Latin America, aligning with ECLAC’s (CEPAL) thesis regarding the digital reproduction of the social inequality matrix. The study concludes that university policies favoring technological virtualization or hybridization are insufficient if they only provide infrastructure; they must be accompanied by comprehensive skill-development programs and pedagogical interventions tailored to a socioeconomically heterogeneous student body to prevent digitalization from acting as a vector of exclusion</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es" kwd-group-type="author-generated">
+            <kwd>Brecha digital</kwd>
+            <kwd>rendimiento académico</kwd>
+            <kwd>educación superior</kwd>
+            <kwd>habilidades digitales</kwd>
+            <kwd>desigualdad social</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en" kwd-group-type="author-generated">
+            <kwd>Digital divide</kwd>
+            <kwd>academic performance</kwd>
+            <kwd>higher education</kwd>
+            <kwd>digital skills</kwd>
+            <kwd>social inequality</kwd>
+         </kwd-group>
          <custom-meta-group>
             <custom-meta>
                <meta-name>xml-lang</meta-name>
