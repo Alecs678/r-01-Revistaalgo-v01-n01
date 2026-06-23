@@ -42,7 +42,7 @@
     </element-citation>
   </ref>
   <ref id="bib-2566-CEPAL2021">
-    <element-citation publication-type="confproc">
+    <element-citation publication-type="report">
       <person-group person-group-type="author">
         <name>
           <surname>CEPAL</surname>
@@ -75,4 +75,5 @@
       <pub-id pub-id-type="doi">10.1177/1461444817715282</pub-id>
     </element-citation>
   </ref>
+  <!-- ADVERTENCIA: citekey 'key' no encontrado en el .bib -->
 </ref-list>
