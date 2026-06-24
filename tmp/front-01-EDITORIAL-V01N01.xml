@@ -4,14 +4,16 @@
     <journal-id journal-id-type="publisher-id">1851-8044</journal-id>
     <journal-title-group>
       <journal-title>Revista Argentina</journal-title>
+      <abbrev-journal-title abbrev-type="publisher">R. Argentina</abbrev-journal-title>
     </journal-title-group>
     <issn pub-type="epub">1851-8044</issn>
     <publisher>
-      <publisher-name>Universidad del sur</publisher-name>
+      <publisher-name>Cosmico</publisher-name>
       <publisher-loc>Buenos Aires, Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.1186/s12939-024-02142-2</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>editorial</subject>
@@ -49,7 +51,7 @@ El hallazgo estadístico más relevante del estudio mediante análisis de regres
 
 A nivel cualitativo, las entrevistas evidenciaron las estrategias de resistencia que los estudiantes de menores recursos despliegan ante la precariedad digital, tales como la &quot;gestión del ancho de banda doméstico&quot; o las severas limitaciones operativas que implica redactar trabajos académicos extensos exclusivamente a través de teléfonos móviles.
 
-Finalmente, la comparación transnacional evidencia que los patrones de desigualdad digital son notablemente homólogos en la UBA y la UNAM. Esto sugiere que la brecha digital en la educación superior responde a determinantes estructurales e históricos comunes en América Latina, alineándose con las tesis de la CEPAL sobre la reproducción digital de la matriz de desigualdad social. El estudio concluye que las políticas universitarias de virtualización o hibridación tecnológica son insuficientes si solo proveen infraestructura; estas deben acompañarse de programas integrales de desarrollo de competencias e intervenciones pedagógicas adaptadas a un alumnado socioeconómicamente heterogéneo para evitar que la digitalización actúe como un vector de exclusión.</p>
+Finalmente, la comparación transnacional evidencia que los patrones de desigualdad digital son notablemente homólogos en la UBA y la UNAM. Esto sugiere que la brecha digital en la educación superior responde a determinantes estructurales e históricos comunes en América Latina, alineándose con las tesis de la CEPAL sobre la reproducción digital de la matriz de desigualdad social. El estudio deriva en  que las políticas universitarias de virtualización o hibridación tecnológica son insuficientes si solo proveen infraestructura; estas deben acompañarse de programas integrales de desarrollo de competencias e intervenciones pedagógicas adaptadas a un alumnado socioeconómicamente heterogéneo para evitar que la digitalización actúe como un vector de exclusión.</p>
     </abstract>
     <trans-abstract xml:lang="en">
       <p>This study provides an in-depth analysis of the impact of digital access conditions on the academic performance of undergraduate students at two of the largest and most prominent public universities in Latin America: the University of Buenos Aires (UBA) in Argentina and the National Autonomous University of Mexico (UNAM). The research adopts a multidimensional approach based on Jan van Dijk’s theoretical model, which moves beyond the traditional, binary conception of the &quot;digital divide&quot; (connected versus unconnected) to examine four interconnected dimensions: motivational access, material access, digital skills, and academic outcomes.

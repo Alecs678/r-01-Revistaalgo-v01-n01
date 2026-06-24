@@ -1,10 +1,11 @@
 
+
 ::: {.intro}
 ## Introducción
 
 La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2565-HARGITTAI2002; @2562-WARSCHAUER2004].
 
-Este desplazamiento conceptual, que van Dijk [-@2563-VANDIJK2020] sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
+Este desplazamiento conceptual, que van Dijk [@2563-VANDIJK2020]sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
 
 El presente estudio analiza la relación entre las condiciones de acceso digital de los estudiantes ---entendidas en sentido amplio, más allá de la mera conectividad--- y su rendimiento académico durante el período 2020-2022 en dos universidades públicas: la Universidad de Buenos Aires (UBA) y la Universidad Nacional Autónoma de México (UNAM). La selección de estos casos responde a su carácter de megauniversidades con poblaciones estudiantiles de extracción social diversa, lo que permite observar la variabilidad interna de la brecha digital en contextos institucionales comparables.
 
@@ -17,19 +18,19 @@ La noción de "brecha digital" surgió en los años noventa asociada a la preocu
 
 [@2562-WARSCHAUER2004] profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
 
-Más recientemente, van Dijk [-@2563-VANDIJK2020] consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
+Más recientemente, van Dijk [@2563-VANDIJK2020] consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
 
 ## La brecha digital en la educación superior latinoamericana
 
 En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio [@2566-CEPAL2021]. La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso ---calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio--- varían enormemente según el origen socioeconómico del estudiante.
 
-Van Deursen y van Dijk [-@2564-VANDEURSEN2019] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
+Van Deursen y van Dijk [@2564-VANDEURSEN2019] mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.
 
 ## Metodología
 
 Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y un componente cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.
 
-Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk [-@2563-VANDIJK2020]: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, [-@2564-VANDEURSEN2019], 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.
+Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk [@2563-VANDIJK2020]: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, [@2564-VANDEURSEN2019], 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.
 
 :::
 
@@ -68,9 +69,8 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.
 
-
 :::{.figure #Figura01}
-![](media/images.jpeg)
+![](media/desconocido.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
 :::
@@ -86,7 +86,7 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 ::: {.discussion}
 ## Discusión
 
-Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [-@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
+Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
 
 El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por [@2565-HARGITTAI2002] en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
 
@@ -99,41 +99,3 @@ Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de 
 Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.
 
 :::
-*Hacer esto para comprobar si soportan las referencias*
-
-## Formato 1: cita básica — normal
-
-La transformación digital impacta en múltiples dimensiones organizacionales [@2565-HARGITTAI2002]. Este formato ya funcionaba antes del fix y sirve como control.
-
-## Formato 2: supresión de autor `[-@key]`
-
-Como señala Salas [-@2565-HARGITTAI2002], la transformación digital no debe confundirse con la simple digitalización de procesos. Lafonte [-@2565-HARGITTAI2002] aborda esta distinción en el contexto logístico argentino.
-
-## Formato 3: cita con localizador de página
-
-El fenómeno ha sido estudiado en profundidad [@2565-HARGITTAI2002, p. 5]. También se han analizado las competencias necesarias [@2565-HARGITTAI2002, pp. 55-60].
-
-## Formato 4: supresión de autor con localizador `[-@key, p. N]`
-
-Mahmood [-@2565-HARGITTAI2002, p. 235] clasifica los desafíos en tres categorías. Suárez Kimura [-@2565-HARGITTAI2002, pp. 225-230] analiza el impacto en la actividad contable.
-
-## Formato 5: prefijo textual `[ver @key]`
-
-Para un análisis detallado del contexto regional [ver @2565-HARGITTAI2002]. Este formato requiere que el parser encuentre el `@` dentro del bloque aunque no sea el primer carácter.
-
-## Formato 6: múltiples citas en un bloque
-
-Diversos autores han abordado la cuestión desde perspectivas complementarias [@2565-HARGITTAI2002; @2563-VANDIJK2020]. Este formato ya funcionaba antes del fix.
-
-## Formato 7: múltiples con supresión parcial
-
-Fitzgerald et al. y Fonseca [@2563-VANDIJK2020; -@2565-HARGITTAI2002] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
-
-## Formato 8: prefijo textual con múltiples citas
-
-Las estadísticas provinciales disponibles [ver @2565-HARGITTAI2002; @2566-CEPAL2021] ofrecen un marco comparativo útil.
-
-## Formato 9: combinaciones mixtas
-
-
-La literatura reciente [@2566-CEPAL2021; @2564-VANDEURSEN2019; -@2565-HARGITTAI2002] muestra convergencia en los hallazgos principales. Suárez Kimura [-@2564-VANDEURSEN2019, p. 228] anticipa varios de estos resultados desde el campo contable.
