@@ -1,11 +1,9 @@
-
-
 ::: {.intro}
 ## Introducción
 
-La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2565-HARGITTAI2002; @2562-WARSCHAUER2004].
+La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2565-HARGITTAI2002;@2562-WARSCHAUER2004].
 
-Este desplazamiento conceptual, que van Dijk [@2563-VANDIJK2020]sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
+Este desplazamiento conceptual, que van Dijk [@2563-VANDIJK2020] sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
 
 El presente estudio analiza la relación entre las condiciones de acceso digital de los estudiantes ---entendidas en sentido amplio, más allá de la mera conectividad--- y su rendimiento académico durante el período 2020-2022 en dos universidades públicas: la Universidad de Buenos Aires (UBA) y la Universidad Nacional Autónoma de México (UNAM). La selección de estos casos responde a su carácter de megauniversidades con poblaciones estudiantiles de extracción social diversa, lo que permite observar la variabilidad interna de la brecha digital en contextos institucionales comparables.
 
@@ -80,7 +78,6 @@ La Figura 1 presenta el modelo de mediación estimado con las cargas estandariza
 Las entrevistas en profundidad permitieron iluminar los mecanismos concretos a través de los cuales opera la desigualdad digital en la vida cotidiana de los estudiantes. Un hallazgo recurrente fue lo que denominamos "gestión del ancho de banda doméstico": en hogares donde varios miembros comparten una única conexión, los estudiantes desarrollan estrategias de negociación del uso de Internet que incluyen cursar en horarios de baja demanda, desactivar la cámara durante las clases sincrónicas para reducir el consumo de datos o descargar materiales en horarios nocturnos.
 
 Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prácticas de escritura académica. Los estudiantes que accedían predominantemente desde teléfonos móviles reportaron dificultades significativas para la redacción de trabajos extensos, la consulta simultánea de múltiples fuentes y el uso de herramientas de gestión bibliográfica. Estas restricciones operativas se traducían, según los entrevistados, en entregas de menor calidad y en una percepción de desventaja respecto de sus compañeros con mejores condiciones de equipamiento.
-
 :::
 
 ::: {.discussion}
@@ -91,7 +88,9 @@ Los resultados de este estudio confirman la pertinencia del modelo multidimensio
 El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por [@2565-HARGITTAI2002] en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
 
 La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la "matriz de la desigualdad social" latinoamericana [@2566-CEPAL2021].
+:::
 
+::: {.conclusions}
 ## Conclusiones
 
 Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.
