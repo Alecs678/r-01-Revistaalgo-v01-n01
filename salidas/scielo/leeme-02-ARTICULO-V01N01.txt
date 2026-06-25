@@ -1,0 +1,40 @@
+PAQUETE SCIELO — construido con gbpublisher
+============================================================
+Generado: 2026-06-24 23:07:14
+
+DATOS DEL ARTÍCULO
+------------------------------------------------------------
+Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
+Autor(es): San Martín, Alex; Souza, Jessé
+Archivo:   02-ARTICULO-V01N01
+
+DATOS DE LA REVISTA
+------------------------------------------------------------
+Acrónimo SciELO: ARS
+ISSN:            1851-8044
+URL canónica:    https://juridica.ibero.mx/index.php/juridi/article/view/307/237
+
+NOMENCLATURA SCIELO
+------------------------------------------------------------
+PID: 1851-8044-ARS-01-01-00001
+
+CONTENIDO DEL ZIP
+------------------------------------------------------------
+  1851-8044-ARS-01-01-00001.xml — XML SciELO PS 1.9
+  1851-8044-ARS-01-01-00001.pdf — PDF final
+  1851-8044-ARS-01-01-00001-gf01.png — Imagen 1
+
+VALIDACIÓN PACKTOOLS STYLECHECKER
+------------------------------------------------------------
+  Estado:       NO VÁLIDO
+  DTD errors:   0
+  Style errors: presentes
+
+OBSERVACIONES
+------------------------------------------------------------
+
+PRÓXIMOS PASOS
+------------------------------------------------------------
+  1. Corregir los errores indicados arriba
+  2. Regenerar el paquete desde gbpublisher
+  3. Enviar el ZIP a scielo@scielo.org
