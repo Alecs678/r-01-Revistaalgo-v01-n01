@@ -15,21 +15,27 @@
       {
         "name": "San Martín, Alex",
         "orcid_id": "https://orcid.org/0009-0002-5434-2105"
+      },
+      {
+        "name": "Souza, Jessé"
       }
     ],
     "identifier": [
-      {"type": "eissn", "id": "1851-8044"}
+      {"type": "eissn", "id": "1851-8044"},
+      {"type": "doi", "id": "10.1186/s12939-024-02142-2"}
     ],
     "journal": {
       "title": "Revista Argentina",
-      "publisher": "",
+      "publisher": "Cosmico",
       "volume": "01",
-      "number": "01"
+      "number": "01",
+      "start_page": "1",
+      "end_page": "3"
     },
     "link": [
       {
         "type": "fulltext",
-        "url": "https://www.sciencedirect.com/journal/english-for-specific-purposes/vol/13/issue/1",
+        "url": "https://juridica.ibero.mx/index.php/juridi/article/view/307/237",
         "content_type": "text/html"
       }
     ]
