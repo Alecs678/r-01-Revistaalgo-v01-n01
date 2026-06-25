@@ -9,49 +9,119 @@
          xml:lang="es">
    <front>
       <journal-meta>
-         <journal-id journal-id-type="publisher-id">1851-8044</journal-id>
+         <journal-id journal-id-type="publisher-id">
+    
+    1851-8044
+   
+   </journal-id>
+         <journal-id journal-id-type="nlm-ta">ARS</journal-id>
          <journal-title-group>
-            <journal-title>Revista Argentina</journal-title>
-            <abbrev-journal-title abbrev-type="publisher">R. Argentina</abbrev-journal-title>
+            <journal-title>
+     
+     Revista Argentina
+    
+    </journal-title>
+            <abbrev-journal-title abbrev-type="publisher">
+     
+     R. Argentina
+    
+    </abbrev-journal-title>
          </journal-title-group>
-         <issn pub-type="epub">1851-8044</issn>
+         <issn pub-type="epub">
+    
+    1851-8044
+   
+   </issn>
          <publisher>
-            <publisher-name>Cosmico</publisher-name>
-            <publisher-loc>Buenos Aires, Argentina</publisher-loc>
+            <publisher-name>
+     
+     Cosmico
+    
+    </publisher-name>
+            <publisher-loc>
+     
+     Buenos Aires, Argentina
+    
+    </publisher-loc>
          </publisher>
       </journal-meta>
       <article-meta>
          <article-id pub-id-type="publisher-id">10.1186/s12939-024-02142-2</article-id>
-         <article-id pub-id-type="doi">10.1186/s12939-024-02142-2</article-id>
+         <article-id pub-id-type="doi">
+    
+    10.1186/s12939-024-02142-2
+   
+   </article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
-               <subject>editorial</subject>
+               <subject>
+      
+      editorial
+     
+     </subject>
             </subj-group>
          </article-categories>
          <title-group>
-            <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+            <article-title>
+     
+     Las deudas pendientes de la digitalización en América Latina
+    
+    </article-title>
          </title-group>
          <contrib-group>
             <contrib contrib-type="author" id="a1">
                <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0002-5434-2105</contrib-id>
-               <name name-style="western">
-                  <surname>San Martín</surname>
-                  <given-names>Alex</given-names>
+               <name>
+                  <surname>
+       
+       San Martín
+      
+      </surname>
+                  <given-names>
+       
+       Alex
+      
+      </given-names>
                </name>
+               <aff>
+                  <institution content-type="dept">
+       
+       Departamento uno
+      
+      </institution>
+      
+      ,
+        
+     
+     </aff>
             </contrib>
          </contrib-group>
          <pub-date date-type="collection" publication-format="electronic">
             <month>06</month>
             <year>2026</year>
          </pub-date>
-         <volume>01</volume>
-         <issue>01</issue>
+         <volume>
+    
+    01
+   
+   </volume>
+         <issue>
+    
+    01
+   
+   </issue>
          <permissions>
-            <copyright-year>2026</copyright-year>
+            <copyright-year>
+     
+     2026
+    
+    </copyright-year>
          </permissions>
          <self-uri xlink:href="https://juridica.ibero.mx/index.php/juridi/article/view/307/237"/>
          <abstract>
-            <p>Este estudio analiza en profundidad el impacto de las condiciones de acceso digital sobre el rendimiento académico de los estudiantes de grado en dos de las universidades públicas más grandes e importantes de América Latina: la Universidad de Buenos Aires (UBA) en Argentina y la Universidad Nacional Autónoma de México (UNAM). La investigación adopta un enfoque multidimensional basado en el modelo teórico de Jan van Dijk, el cual supera la concepción binaria y tradicional de la "brecha digital" (conectados versus no conectados) para examinar cuatro dimensiones interconectadas: el acceso motivacional, el acceso material, las habilidades digitales y los resultados académicos.
+            <p>
+     
+     Este estudio analiza en profundidad el impacto de las condiciones de acceso digital sobre el rendimiento académico de los estudiantes de grado en dos de las universidades públicas más grandes e importantes de América Latina: la Universidad de Buenos Aires (UBA) en Argentina y la Universidad Nacional Autónoma de México (UNAM). La investigación adopta un enfoque multidimensional basado en el modelo teórico de Jan van Dijk, el cual supera la concepción binaria y tradicional de la "brecha digital" (conectados versus no conectados) para examinar cuatro dimensiones interconectadas: el acceso motivacional, el acceso material, las habilidades digitales y los resultados académicos.
 
 Metodológicamente, la investigación implementa un diseño de métodos mixtos que dota al análisis de una sólida base empírica. Por un lado, se aplicó un cuestionario estructurado a una muestra representativa de 1.247 estudiantes pertenecientes a las facultades de Ciencias Sociales y Políticas de ambas instituciones durante el segundo semestre de 2022. Por otro lado, se realizaron 40 entrevistas semiestructuradas en profundidad a estudiantes con perfiles contrastantes, permitiendo capturar las vivencias cualitativas detrás de las estadísticas.
 
@@ -61,10 +131,14 @@ El hallazgo estadístico más relevante del estudio mediante análisis de regres
 
 A nivel cualitativo, las entrevistas evidenciaron las estrategias de resistencia que los estudiantes de menores recursos despliegan ante la precariedad digital, tales como la "gestión del ancho de banda doméstico" o las severas limitaciones operativas que implica redactar trabajos académicos extensos exclusivamente a través de teléfonos móviles.
 
-Finalmente, la comparación transnacional evidencia que los patrones de desigualdad digital son notablemente homólogos en la UBA y la UNAM. Esto sugiere que la brecha digital en la educación superior responde a determinantes estructurales e históricos comunes en América Latina, alineándose con las tesis de la CEPAL sobre la reproducción digital de la matriz de desigualdad social. El estudio deriva en  que las políticas universitarias de virtualización o hibridación tecnológica son insuficientes si solo proveen infraestructura; estas deben acompañarse de programas integrales de desarrollo de competencias e intervenciones pedagógicas adaptadas a un alumnado socioeconómicamente heterogéneo para evitar que la digitalización actúe como un vector de exclusión.</p>
+Finalmente, la comparación transnacional evidencia que los patrones de desigualdad digital son notablemente homólogos en la UBA y la UNAM. Esto sugiere que la brecha digital en la educación superior responde a determinantes estructurales e históricos comunes en América Latina, alineándose con las tesis de la CEPAL sobre la reproducción digital de la matriz de desigualdad social. El estudio deriva en  que las políticas universitarias de virtualización o hibridación tecnológica son insuficientes si solo proveen infraestructura; estas deben acompañarse de programas integrales de desarrollo de competencias e intervenciones pedagógicas adaptadas a un alumnado socioeconómicamente heterogéneo para evitar que la digitalización actúe como un vector de exclusión.
+    
+    </p>
          </abstract>
          <trans-abstract xml:lang="en">
-            <p>This study provides an in-depth analysis of the impact of digital access conditions on the academic performance of undergraduate students at two of the largest and most prominent public universities in Latin America: the University of Buenos Aires (UBA) in Argentina and the National Autonomous University of Mexico (UNAM). The research adopts a multidimensional approach based on Jan van Dijk’s theoretical model, which moves beyond the traditional, binary conception of the "digital divide" (connected versus unconnected) to examine four interconnected dimensions: motivational access, material access, digital skills, and academic outcomes.
+            <p>
+     
+     This study provides an in-depth analysis of the impact of digital access conditions on the academic performance of undergraduate students at two of the largest and most prominent public universities in Latin America: the University of Buenos Aires (UBA) in Argentina and the National Autonomous University of Mexico (UNAM). The research adopts a multidimensional approach based on Jan van Dijk’s theoretical model, which moves beyond the traditional, binary conception of the "digital divide" (connected versus unconnected) to examine four interconnected dimensions: motivational access, material access, digital skills, and academic outcomes.
 
 Methodologically, the investigation implements a mixed-methods design that provides the analysis with a robust empirical foundation. On one hand, a structured questionnaire was administered to a representative sample of 1,247 students from the Social and Political Sciences faculties of both institutions during the second semester of 2022. On the other hand, 40 semi-structured, in-depth interviews were conducted with students showing contrasting profiles, allowing researchers to capture the qualitative experiences behind the statistical data.
 
@@ -74,36 +148,102 @@ The most relevant statistical finding of the study, obtained through multiple re
 
 At the qualitative level, the interviews highlighted the resistance strategies that lower-income students deploy in response to digital precarity, such as "domestic bandwidth management" or the severe operational limitations involved in writing long academic papers exclusively on mobile phones.
 
-Finally, the cross-national comparison shows that the patterns of digital inequality are remarkably homologous at both UBA and UNAM. This suggests that the digital divide in higher education stems from common structural and historical determinants across Latin America, aligning with ECLAC’s (CEPAL) thesis regarding the digital reproduction of the social inequality matrix. The study concludes that university policies favoring technological virtualization or hybridization are insufficient if they only provide infrastructure; they must be accompanied by comprehensive skill-development programs and pedagogical interventions tailored to a socioeconomically heterogeneous student body to prevent digitalization from acting as a vector of exclusion</p>
+Finally, the cross-national comparison shows that the patterns of digital inequality are remarkably homologous at both UBA and UNAM. This suggests that the digital divide in higher education stems from common structural and historical determinants across Latin America, aligning with ECLAC’s (CEPAL) thesis regarding the digital reproduction of the social inequality matrix. The study concludes that university policies favoring technological virtualization or hybridization are insufficient if they only provide infrastructure; they must be accompanied by comprehensive skill-development programs and pedagogical interventions tailored to a socioeconomically heterogeneous student body to prevent digitalization from acting as a vector of exclusion
+    
+    </p>
          </trans-abstract>
          <kwd-group xml:lang="es" kwd-group-type="author-generated">
-            <kwd>Brecha digital</kwd>
-            <kwd>rendimiento académico</kwd>
-            <kwd>educación superior</kwd>
-            <kwd>habilidades digitales</kwd>
-            <kwd>desigualdad social</kwd>
+            <kwd>
+     
+     Brecha digital
+    
+    </kwd>
+            <kwd>
+     
+     rendimiento académico
+    
+    </kwd>
+            <kwd>
+     
+     educación superior
+    
+    </kwd>
+            <kwd>
+     
+     habilidades digitales
+    
+    </kwd>
+            <kwd>
+     
+     desigualdad social
+    
+    </kwd>
          </kwd-group>
          <kwd-group xml:lang="en" kwd-group-type="author-generated">
-            <kwd>Digital divide</kwd>
-            <kwd>academic performance</kwd>
-            <kwd>higher education</kwd>
-            <kwd>digital skills</kwd>
-            <kwd>social inequality</kwd>
+            <kwd>
+     
+     Digital divide
+    
+    </kwd>
+            <kwd>
+     
+     academic performance
+    
+    </kwd>
+            <kwd>
+     
+     higher education
+    
+    </kwd>
+            <kwd>
+     
+     digital skills
+    
+    </kwd>
+            <kwd>
+     
+     social inequality
+    
+    </kwd>
          </kwd-group>
       </article-meta>
    </front>
    <body>
-      <p>La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.</p>
-      <p>América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.</p>
-      <p>Tres años después del momento más agudo de la crisis sanitaria, el balance resulta ambivalente. Por un lado, se registró una expansión significativa de la conectividad: varios países de la región superaron tasas de penetración de Internet que parecían lejanas a comienzos de 2020. Por otro, las desigualdades de uso —lo que la literatura especializada denomina “brecha digital de segundo nivel”— no solo persistieron sino que, en algunos casos, se profundizaron. Los sectores de menores ingresos accedieron mayoritariamente a través de teléfonos móviles con planes de datos limitados, lo que restringía severamente sus posibilidades de participar en actividades educativas, laborales o de ejercicio ciudadano que demandan conexiones estables y pantallas de mayor tamaño.<fn>
-            <p>Según estimaciones de la CEPAL, en 2022 el costo del servicio de
+      <p>
+   
+   La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.
+  
+  </p>
+      <p>
+   
+   América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.
+  
+  </p>
+      <p>
+   
+   Tres años después del momento más agudo de la crisis sanitaria, el balance resulta ambivalente. Por un lado, se registró una expansión significativa de la conectividad: varios países de la región superaron tasas de penetración de Internet que parecían lejanas a comienzos de 2020. Por otro, las desigualdades de uso —lo que la literatura especializada denomina “brecha digital de segundo nivel”— no solo persistieron sino que, en algunos casos, se profundizaron. Los sectores de menores ingresos accedieron mayoritariamente a través de teléfonos móviles con planes de datos limitados, lo que restringía severamente sus posibilidades de participar en actividades educativas, laborales o de ejercicio ciudadano que demandan conexiones estables y pantallas de mayor tamaño.
+   
+   <fn>
+            <p>
+     
+     Según estimaciones de la CEPAL, en 2022 el costo del servicio de
 banda ancha para la población del primer quintil de ingresos
 representaba en promedio el 14% de su ingreso mensual en la región, una
 proporción que vuelve inviable cualquier pretensión de universalidad
-efectiva.</p>
+efectiva.
+    
+    </p>
          </fn>
       </p>
-      <p>El problema, conviene insistir, no es exclusivamente tecnológico. La digitalización que no va acompañada de políticas públicas integrales —que atiendan simultáneamente la conectividad, la formación, el diseño institucional y la producción de contenidos pertinentes— corre el riesgo de reproducir y amplificar las desigualdades preexistentes. En una región donde la matriz de la desigualdad opera simultáneamente por ingreso, género, etnia, territorio y edad, suponer que la mera provisión de infraestructura resuelve el acceso es una simplificación que ningún responsable de política pública debería permitirse.</p>
-      <p>Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete —una vez más— resolver por sí sola las deudas históricas de la región.</p>
+      <p>
+   
+   El problema, conviene insistir, no es exclusivamente tecnológico. La digitalización que no va acompañada de políticas públicas integrales —que atiendan simultáneamente la conectividad, la formación, el diseño institucional y la producción de contenidos pertinentes— corre el riesgo de reproducir y amplificar las desigualdades preexistentes. En una región donde la matriz de la desigualdad opera simultáneamente por ingreso, género, etnia, territorio y edad, suponer que la mera provisión de infraestructura resuelve el acceso es una simplificación que ningún responsable de política pública debería permitirse.
+  
+  </p>
+      <p>
+   
+   Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete —una vez más— resolver por sí sola las deudas históricas de la región.
+  
+  </p>
    </body>
 </article>
