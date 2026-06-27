@@ -17,7 +17,9 @@
       "title": "Revista Argentina",
       "publisher": "Cosmico",
       "volume": "01",
-      "number": "01"
+      "number": "01",
+      "start_page": "1",
+      "end_page": "3"
     },
     "link": [
       {

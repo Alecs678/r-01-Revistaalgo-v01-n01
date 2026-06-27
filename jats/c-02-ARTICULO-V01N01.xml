@@ -225,6 +225,25 @@
      </contrib-id>
      
      
+               
+     
+     <aff>
+      
+      
+                  
+      
+      <institution content-type="dept">
+       
+       Departamento uno
+      
+      </institution>
+      
+      ,
+        
+     
+     </aff>
+     
+     
             
     
     </contrib>
@@ -244,7 +263,7 @@
       
       <surname>
        
-       Souza
+       Apellido
       
       </surname>
       
@@ -253,7 +272,7 @@
       
       <given-names>
        
-       Jessé
+       Nombre
       
       </given-names>
       
@@ -261,6 +280,25 @@
                
      
      </name>
+     
+     
+               
+     
+     <aff>
+      
+      
+                  
+      
+      <institution content-type="dept">
+       
+       Catedra dos
+      
+      </institution>
+      
+      ,
+        
+     
+     </aff>
      
      
             
@@ -280,6 +318,15 @@
     
             
     
+    <year>
+     
+     2026
+    
+    </year>
+    
+    
+            
+    
     <month>
      
      06
@@ -289,11 +336,11 @@
     
             
     
-    <year>
+    <day>
      
-     2026
+     26
     
-    </year>
+    </day>
     
     
          
@@ -335,6 +382,164 @@
     3
    
    </lpage>
+   
+   
+         
+   
+   <history>
+    
+    
+            
+    
+    <date date-type="received">
+     
+     
+               
+     
+     <day>
+      
+      19
+     
+     </day>
+     
+     
+               
+     
+     <month>
+      
+      06
+     
+     </month>
+     
+     
+               
+     
+     <year>
+      
+      2026
+     
+     </year>
+     
+     
+            
+    
+    </date>
+    
+    
+            
+    
+    <date date-type="rev-recd">
+     
+     
+               
+     
+     <day>
+      
+      19
+     
+     </day>
+     
+     
+               
+     
+     <month>
+      
+      06
+     
+     </month>
+     
+     
+               
+     
+     <year>
+      
+      2026
+     
+     </year>
+     
+     
+            
+    
+    </date>
+    
+    
+            
+    
+    <date date-type="accepted">
+     
+     
+               
+     
+     <day>
+      
+      17
+     
+     </day>
+     
+     
+               
+     
+     <month>
+      
+      06
+     
+     </month>
+     
+     
+               
+     
+     <year>
+      
+      2026
+     
+     </year>
+     
+     
+            
+    
+    </date>
+    
+    
+            
+    
+    <date date-type="pub">
+     
+     
+               
+     
+     <day>
+      
+      26
+     
+     </day>
+     
+     
+               
+     
+     <month>
+      
+      06
+     
+     </month>
+     
+     
+               
+     
+     <year>
+      
+      2026
+     
+     </year>
+     
+     
+            
+    
+    </date>
+    
+    
+         
+   
+   </history>
    
    
          
@@ -631,7 +836,7 @@
     
     Este desplazamiento conceptual, que van Dijk 
     
-    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">
+    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020" specific-use="suppress||">
      
      2563-VANDIJK2020
     
@@ -711,7 +916,7 @@
     
     Más recientemente, van Dijk 
     
-    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">
+    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020" specific-use="suppress||">
      
      2563-VANDIJK2020
     
@@ -764,7 +969,7 @@
     
     Van Deursen y van Dijk 
     
-    <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">
+    <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019" specific-use="suppress||">
      
      2564-VANDEURSEN2019
     
@@ -809,7 +1014,7 @@
     
     Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk 
     
-    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">
+    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020" specific-use="suppress||">
      
      2563-VANDIJK2020
     
@@ -817,7 +1022,7 @@
     
     : acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, 
     
-    <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019">
+    <xref ref-type="bibr" rid="bib-2564-VANDEURSEN2019" specific-use="suppress||">
      
      2564-VANDEURSEN2019
     
@@ -1535,7 +1740,7 @@
     
     Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk 
     
-    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020">
+    <xref ref-type="bibr" rid="bib-2563-VANDIJK2020" specific-use="suppress||">
      
      2563-VANDIJK2020
     
@@ -2084,7 +2289,7 @@
      
      <source>
       
-      New Media \&amp; Society
+      New Media y Society
      
      </source>
      

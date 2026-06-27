@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-02-ARTICULO-V01N01-20260625194005</doi_batch_id>
-      <timestamp>20260625194005</timestamp>
+      <doi_batch_id>gbpublisher-02-ARTICULO-V01N01-20260626205441</doi_batch_id>
+      <timestamp>20260626205441</timestamp>
       <depositor>
          <depositor_name>Cosmico</depositor_name>
          <email_address>universidaddelsur@hotmail.com</email_address>
@@ -25,6 +25,7 @@
          <journal_issue>
             <publication_date media_type="online">
                <month>06</month>
+               <day>26</day>
                <year>2026</year>
             </publication_date>
             <journal_volume>
@@ -46,8 +47,8 @@
                   <ORCID authenticated="true">https://orcid.org/0009-0002-5434-2105</ORCID>
                </person_name>
                <person_name sequence="additional" contributor_role="author">
-                  <given_name>Jessé</given_name>
-                  <surname>Souza</surname>
+                  <given_name>Nombre</given_name>
+                  <surname>Apellido</surname>
                </person_name>
             </contributors>
             <jats:abstract>
@@ -58,6 +59,7 @@
             </jats:abstract>
             <publication_date media_type="online">
                <month>06</month>
+               <day>26</day>
                <year>2026</year>
             </publication_date>
             <pages>
@@ -116,7 +118,7 @@
       
       2019
      
-     ). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. New Media \&amp; Society, 
+     ). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. New Media y Society, 
       
       21
      

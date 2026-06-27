@@ -7,9 +7,11 @@
       <publisher>Cosmico</publisher>
       <journalTitle>Revista Argentina</journalTitle>
       <eissn>1851-8044</eissn>
-      <publicationDate>2026-06</publicationDate>
+      <publicationDate>2026-06-26</publicationDate>
       <volume>01</volume>
       <issue>01</issue>
+      <startPage>1</startPage>
+      <endPage>4</endPage>
       <doi>10.1186/s12939-024-02142-2</doi>
       <documentType>editorial</documentType>
       <title language="spa">Las deudas pendientes de la digitalización en América Latina</title>
