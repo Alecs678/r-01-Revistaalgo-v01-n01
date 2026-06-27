@@ -74,7 +74,8 @@
          </history>
          <permissions>
             <copyright-year>2026</copyright-year>
-            <license license-type="open-access">
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                <license-p>Otra</license-p>
             </license>
          </permissions>
