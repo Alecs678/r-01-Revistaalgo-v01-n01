@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-01-EDITORIAL-V01N01-20260626203046</doi_batch_id>
-      <timestamp>20260626203046</timestamp>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01N01-20260626215621</doi_batch_id>
+      <timestamp>20260626215621</timestamp>
       <depositor>
          <depositor_name>Cosmico</depositor_name>
          <email_address>universidaddelsur@hotmail.com</email_address>
@@ -61,6 +61,10 @@
                <first_page>1</first_page>
                <last_page>4</last_page>
             </pages>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by-nc-sa/4.0/</license_ref>
+            </program>
             <doi_data>
                <doi>10.1186/s12939-024-02142-2</doi>
                <resource content_version="vor" mime_type="text/html">https://juridica.ibero.mx/index.php/juridi/article/view/307/237</resource>
