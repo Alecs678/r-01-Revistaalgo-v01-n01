@@ -1,12 +1,12 @@
 PAQUETE SCIELO — construido con gbpublisher
 ============================================================
-Generado: 2026-06-28 17:56:19
+Generado: 2026-06-28 18:23:48
 
 DATOS DEL ARTÍCULO
 ------------------------------------------------------------
-Título:    Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México
-Autor(es): San Martín, Alex; Apellido, Nombre
-Archivo:   02-ARTICULO-V01N01
+Título:    Reseña editorial
+Autor(es): San Martín, Alex
+Archivo:   03-RESENA-V01N01
 
 DATOS DE LA REVISTA
 ------------------------------------------------------------
@@ -22,16 +22,16 @@ CONTENIDO DEL ZIP
 ------------------------------------------------------------
   1851-8044-ARS-01-01-00001.xml — XML SciELO PS 1.9
   1851-8044-ARS-01-01-00001.pdf — PDF final
-  1851-8044-ARS-01-01-00001-gf01.png — Imagen 1
 
 VALIDACIÓN PACKTOOLS STYLECHECKER
 ------------------------------------------------------------
   Estado:       NO VÁLIDO
-  DTD errors:   0
-  Style errors: presentes
+  DTD errors:   presentes
+  Style errors: 0
 
 OBSERVACIONES
 ------------------------------------------------------------
+  ADVERTENCIA: El artículo no tiene imágenes referenciadas.
 
 PRÓXIMOS PASOS
 ------------------------------------------------------------
